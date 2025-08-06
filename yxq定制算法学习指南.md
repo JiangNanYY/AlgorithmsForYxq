@@ -16,6 +16,12 @@
 
 ### 各种排序算法（选择排序、插入排序、冒泡排序......）
 
+> 了解: 基数排序
+>
+> https://www.runoob.com/w3cnote/radix-sort.html
+>
+> https://gitee.com/w_y123/mynote_img/raw/master/images/radixSort.gif
+
 ### 数据结构
 
 > 数组
@@ -38,7 +44,13 @@
 
 ## 二、进阶
 
+### 堆
 
+小根堆、大根堆、优先级队列
+
+> 了解： 加强堆：https://blog.csdn.net/u011386173/article/details/124952597
+
+<mark>git  截止: 2023/12/1 14:30</mark>
 
 ### 前缀和：
 
@@ -55,3 +67,8 @@ https://gitee.com/w_y123/mynote_img/raw/master/images/image-20240516163955866.pn
 ### 也要顺带看一下的题：
 
 [LCR 194. 二叉树的最近公共祖先](https://leetcode.cn/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
+
+## 三、挑战
+
+[LCR 170. 交易逆序对的总数](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+
